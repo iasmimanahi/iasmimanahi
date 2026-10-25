@@ -88,7 +88,7 @@ Welcome to my GitHub! Here you'll find my projects.
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <a href="[https://macedo-hub.github.io/Studay/](https://studay.site.je/?i=1)" target="_blank">
+      <a href="https://studay.site.je/?i=1" target="_blank">
         <img height="80"
              src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg"
              alt="Projeto StuDay"/>

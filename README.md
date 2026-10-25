@@ -24,10 +24,10 @@
 
 ## 👩‍💻 Sobre Mim | About Me
 
-Olá! Meu nome é **Iasmim Anahí**, tenho **18 anos** e sou estudante de **Informática**.  
+Olá! Meu nome é **Iasmim Anahí**, tenho **19 anos** e sou estudante de **Informática**.  
 Bem-vindo(a) ao meu GitHub! Aqui você encontrará meus projetos.
 
-Hello! My name is **Iasmim Anahí**, I'm **18 years old**, and I'm a **Computer Science student**.  
+Hello! My name is **Iasmim Anahí**, I'm **19 years old**, and I'm a **Computer Science student**.  
 Welcome to my GitHub! Here you'll find my projects.
 
 ---
